@@ -1,0 +1,1 @@
+alert("This my try to use js in github page.");
